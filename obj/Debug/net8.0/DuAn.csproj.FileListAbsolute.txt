@@ -1,0 +1,15 @@
+C:\Users\pc\Desktop\Module1\DuAn\bin\Debug\net8.0\DuAn.exe
+C:\Users\pc\Desktop\Module1\DuAn\bin\Debug\net8.0\DuAn.deps.json
+C:\Users\pc\Desktop\Module1\DuAn\bin\Debug\net8.0\DuAn.runtimeconfig.json
+C:\Users\pc\Desktop\Module1\DuAn\bin\Debug\net8.0\DuAn.dll
+C:\Users\pc\Desktop\Module1\DuAn\bin\Debug\net8.0\DuAn.pdb
+C:\Users\pc\Desktop\Module1\DuAn\obj\Debug\net8.0\DuAn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\Module1\DuAn\obj\Debug\net8.0\DuAn.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Module1\DuAn\obj\Debug\net8.0\DuAn.AssemblyInfo.cs
+C:\Users\pc\Desktop\Module1\DuAn\obj\Debug\net8.0\DuAn.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Module1\DuAn\obj\Debug\net8.0\DuAn.sourcelink.json
+C:\Users\pc\Desktop\Module1\DuAn\obj\Debug\net8.0\DuAn.dll
+C:\Users\pc\Desktop\Module1\DuAn\obj\Debug\net8.0\refint\DuAn.dll
+C:\Users\pc\Desktop\Module1\DuAn\obj\Debug\net8.0\DuAn.pdb
+C:\Users\pc\Desktop\Module1\DuAn\obj\Debug\net8.0\DuAn.genruntimeconfig.cache
+C:\Users\pc\Desktop\Module1\DuAn\obj\Debug\net8.0\ref\DuAn.dll
